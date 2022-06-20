@@ -2,6 +2,6 @@
 
 Javascript 
 
-Ployly
+Plotly
 
 D3 library
